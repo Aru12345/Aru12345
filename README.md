@@ -1,4 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)there,I'm Arundhati !
+===================================================================================================================================
 
 
 I've been learning to code since 2 years ,after switching careers . Fullstack web developer with experience using JavaScript React Ruby, and Ruby on Rails.With a passion for Front end Engineering ,I love creating sleek, accessible technology.
