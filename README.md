@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===================================================================================================================================
 
 
-I've been learning to code since 2 years ,after switching careers . Fullstack web developer with experience using JavaScript React Ruby, and Ruby on Rails.With a passion for Front end Engineering ,I love creating sleek, accessible technology.
+ Fullstack web developer with experience using JavaScript React Ruby, and Ruby on Rails.With a passion for Front end Engineering ,I love creating sleek, accessible technology.
 
 * 🌍  I'm based in New York City
 * ✉️  You can contact me at [arundhatiraicar12@gmail.com](mailto:arundhatiraicar12@gmail.com)
