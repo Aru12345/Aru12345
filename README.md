@@ -2,14 +2,22 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===================================================================================================================================
 
 
- Fullstack web developer with experience using JavaScript React Ruby, and Ruby on Rails.With a passion for Front end Engineering ,I love creating sleek, accessible technology.
+A fullstack web developer with experience using JavaScript React Ruby, and Ruby on Rails.With a passion for Front end Engineering ,I love creating sleek, accessible technology.
+When I'm not immersed in coding, I find great joy in exploring two of my passions: reading travel reviews and delving into astrology.
 
 * 🌍  I'm based in New York City
 * ✉️  You can contact me at [arundhatiraicar12@gmail.com](mailto:arundhatiraicar12@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects!
 
-### Skills
+Happy to have you here :)
 
+Featured Projects :
+<ul>
+<li><a href="https://github.com/Aru12345/capstone">Big Apple Explorer🍎</a>Fullstack application utilizing JavaScript React, MUI, Ruby on Rails and PostgresSQL.LogIn/SignUp using Bcrypt - <a href="https://www.youtube.com/watch?v=Rg3GBEAtnic">Demo video</a></li>
+
+</ul>
+
+### Skills
 
 <p align="left">
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
