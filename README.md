@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===================================================================================================================================
 
 
-A fullstack web developer with experience using JavaScript React Ruby, and Ruby on Rails.With a passion for Front end Engineering ,I love creating sleek, accessible technology.
+A fullstack web developer with experience using JavaScript React Ruby, and Ruby on Rails.With a passion for Front end Engineering ,I love creating sleek, accessible technology.I am dedicated to staying updated with the latest industry trends, ensuring that the solutions I create are not only aesthetically pleasing but also accessible to a diverse audience.Let's connect and discuss how I can contribute to making your digital vision a reality.
 When I'm not immersed in coding, I find great joy in exploring two of my passions: reading travel reviews and delving into astrology.
 
 * 🌍  I'm based in New York City
@@ -13,7 +13,9 @@ Happy to have you here :)
 
 Featured Projects :
 <ul>
-<li><a href="https://github.com/Aru12345/capstone">Big Apple Explorer🍎</a>Fullstack application utilizing JavaScript React, MUI, Ruby on Rails and PostgresSQL.LogIn/SignUp using Bcrypt - <a href="https://www.youtube.com/watch?v=Rg3GBEAtnic">Demo video</a></li>
+<li><a href="https://github.com/Aru12345/capstone">Big Apple Explorer 🍎 </a>Fullstack application utilizing JavaScript React, MUI, Ruby on Rails and PostgresSQL.Implemented LogIn/SignUp using Bcrypt - <a href="https://www.youtube.com/watch?v=Rg3GBEAtnic"> Demo video</a></li>
+<li><a href="https://github.com/Aru12345/travelplanner">Nomad Connect 🌎 </a> A frontend React application showcasing my ability to seamlessly integrate external APIs.Utilized JSON server for data persistence - <a href="https://www.youtube.com/watch?v=JUdgY7_-qyI"> Demo video</a></li>
+<li><a href="https://github.com/Aru12345/CocktailLab">Cocktail Lab 🍸 </a> Javascript DOM manipulation project.Utilized media queries for responsive design,CSS animations for engaging user interactions, and custom CSS to create a dynamic UI. - <a href="https://www.youtube.com/watch?v=WDGpsNKszWU"> Demo video</a></li>
 
 </ul>
 
@@ -28,6 +30,7 @@ Featured Projects :
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg](https://viget.imgix.net/tailwind-on-gray.png?auto=format%2Ccompress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1280&ixlib=php-2.1.1&q=90&w=1280&s=c59bb939dcc8298544a1300e6c43673c)" width="36" height="36" alt="Tailwind" /></a>
 </p>
 
 
@@ -43,6 +46,5 @@ Featured Projects :
 
 <a href="http://www.github.com/Aru12345"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aru12345&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Aru12345"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Aru12345&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Aru12345" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aru12345&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
