@@ -7,8 +7,8 @@ I am dedicated to staying updated with the latest industry trends, ensuring that
 When I'm not immersed in coding, I find great joy in exploring two of my passions: reading travel reviews and delving into astrology.
 
 * 🌍  I'm based in New York City
-* ✉️  You can contact me at [arundhatiraicar12@gmail.com](mailto:arundhatiraicar12@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects!
+* 👩🏻‍💻  Currently learning MEAN stack
 
 Happy to have you here :)
 
