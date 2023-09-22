@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 A full-stack web developer with experience using JavaScript, React and Ruby on Rails.With a passion for Front End Engineering, I love creating sleek, accessible technology.My journey into the world of web development began with a fascination for turning ideas into visually appealing digital solutions.
 I am dedicated to staying updated with the latest industry trends, ensuring that the solutions I create are not only aesthetically pleasing but also accessible to a diverse audience.Let's connect and discuss how I can contribute to making your digital vision a reality.
-When I'm not immersed in coding, I find great joy in exploring two of my passions: viewing travel vlogs and delving into astrology.
+When I'm not immersed in coding, I find great joy in reading world history.
 
 * 🌍  I'm based in New York City
 * 🤝  I'm open to collaborating on interesting projects!
