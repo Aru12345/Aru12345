@@ -8,7 +8,7 @@ When I'm not immersed in coding, I find great joy in reading world history.
 
 * 🌍  I'm based in New York City
 * 🤝  I'm open to collaborating on interesting projects!
-* 👩🏻‍💻  Currently learning Python
+* 🐍  Currently learning Python
 
 
 Happy to have you here :)
